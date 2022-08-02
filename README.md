@@ -34,3 +34,5 @@
         <br>The cost of one person’s meal is 54.5 EGP.</br>
         <br>Deposit amount = 25% of the total cost.</br>
       </p>
+  <h2>Files</h2>
+    <p>main.c : This file contains the code of the project.</p>
