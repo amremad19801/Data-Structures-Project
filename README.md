@@ -6,30 +6,30 @@
     </p>
     <h2>Code Structure</h2>
       <p>I have constructed a class named Event; this class has the following members:
-         Variables: (Note: for string variable use only C strings)
-         EventName: holds the name of the event.
-         CustomerName: holds the name of the customer.
-         GuestCount: holds the number of guests to attend the event.
-         EventDuration: holds the duration of the event in minutes.
-         NumberOfWaiters: to hold the number of Waiters required in the event.
-         CostPerWaiter: holds the cost of one Waiter for the event duration.
-         FoodCost: holds the total food cost of all attendees.
-         TotalCost: holds the cost of the whole event including food cost and Waiters’ cost.
-         DepositAmount: hold the amount of deposit the user needs to pay before booking.
+         <br>Variables: (Note: for string variable use only C strings)</br>
+         <br>EventName: holds the name of the event.</br>
+         <br>CustomerName: holds the name of the customer.</br>
+         <br>GuestCount: holds the number of guests to attend the event.</br>
+         <br>EventDuration: holds the duration of the event in minutes.</br>
+         <br>NumberOfWaiters: to hold the number of Waiters required in the event.</br>
+         <br>CostPerWaiter: holds the cost of one Waiter for the event duration.</br>
+         <br>FoodCost: holds the total food cost of all attendees.</br>
+         <br>TotalCost: holds the cost of the whole event including food cost and Waiters’ cost.</br>
+         <br>DepositAmount: hold the amount of deposit the user needs to pay before booking.</br>
       </p>
     <h2>Functions</h2>
       <p>
-        getEventName(): gets the event name from user.
-        getCustomerName(): gets the customer name from user.
-        getGuestCount(): gets the number of guests for the event from user. 
-        getEventDuration(): gets the event duration from user.
-        CalcualteCost(): Calculates NumberOfWaiters, CostPerWaiter, FoodCost, TotalCost and DepositAmount.
-        PrintInfo(): Prints to the user the final calculated values for NumberOfWaiters,CostPerWaiter, FoodCost, TotalCost and DepositAmount.
+        <br>getEventName(): gets the event name from user.</br>
+        <br>getCustomerName(): gets the customer name from user.</br>
+        <br>getGuestCount(): gets the number of guests for the event from user.</br>
+        <br>getEventDuration(): gets the event duration from user.</br>
+        <br>CalcualteCost(): Calculates NumberOfWaiters, CostPerWaiter, FoodCost, TotalCost and DepositAmount.</br>
+        <br>PrintInfo(): Prints to the user the final calculated values for NumberOfWaiters,CostPerWaiter, FoodCost, TotalCost and DepositAmount.</br>
       </p>
     <h2>Constants and Equations</h2>
       <p>
-        - Each Waiter can serve 20 persons maximum.
-        - The cost per each Waiter is 46.5 EGP per hour and 1 EGP for each extra minute.
-        - The cost of one person’s meal is 54.5 EGP.
-        - Deposit amount = 25% of the total cost.
+        <br>Each Waiter can serve 20 persons maximum.</br>
+        <br>The cost per each Waiter is 46.5 EGP per hour and 1 EGP for each extra minute.</br>
+        <br>The cost of one person’s meal is 54.5 EGP.</br>
+        <br>Deposit amount = 25% of the total cost.</br>
       </p>
