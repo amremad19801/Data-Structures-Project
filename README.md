@@ -5,7 +5,8 @@
        customer.
     </p>
     <h2>Code Structure</h2>
-      <p>I have constructed a class named Event; this class has the following members:
+      <h3>I have constructed a class named Event; this class has the following members</h3>
+      <p>
          <br>Variables: (Note: for string variable use only C strings)</br>
          <br>EventName: holds the name of the event.</br>
          <br>CustomerName: holds the name of the customer.</br>
