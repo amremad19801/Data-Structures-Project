@@ -10,11 +10,12 @@
  atof() : It is a function which converts string to float.
  */
 
-#include <iostream>
 #include<cmath>
 #include<ctype.h>
 #include<iomanip>
 #include<cstring>
+#include <iostream>
+
 using namespace std;
 
 const int N = 100;
